@@ -2662,3 +2662,8 @@ https://www.wide.ad.jp/
 
 Python Community News is a podcast, livestream, and newsletter that focuses on the Non-Pipable news in the Python Community.
 https://pythoncommunitynews.com
+
+### GraphQL Foundation
+
+An open and neutral home for the GraphQL community, dedicated to promoting widespread adoption and accelerating development of the surrounding ecosystem
+https://graphql.org
